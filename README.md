@@ -1,4 +1,4 @@
-## Olá, eu me chamo Guilherme Sergio.
+# Olá, eu me chamo Guilherme Sergio.
 
 👜 Atualmente estou trabalhando com front-end,<br>
 🎓 Sou graduando em Engenharia Química,<br>
