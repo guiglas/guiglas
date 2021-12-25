@@ -2,7 +2,7 @@
 
 👜 Atualmente estou trabalhando com front-end,<br>
 🎓 Sou graduando em Engenharia Química,<br>
-📚 Estou estudando Banco de Dados e Typescript!
+📚 Atualmente, estou estudando Banco de Dados e Typescript!
 
 <h2>Linguagens e softwares que utilizo</h2>
 <div style="width:75%">
