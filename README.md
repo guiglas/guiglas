@@ -12,6 +12,7 @@
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
 <div />
