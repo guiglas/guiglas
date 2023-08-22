@@ -1,8 +1,8 @@
 # Olá, me chamo Guilherme Sergio.
 
-👜 Atualmente estou trabalhando com front-end,<br>
+👜 Atualmente estou trabalhando como desenvolverdor e analista de dados.<br>
 🎓 Sou graduando em Engenharia Química,<br>
-📚 Estou estudando e me aprimorando em Banco de Dados e Python!
+📚 Estou estudando e me aprimorando em Python!
 
 <h2>Linguagens e softwares que utilizo</h2>
 <div style="width:75%">
@@ -11,7 +11,7 @@
 <img  style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/python-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img style="width:5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
